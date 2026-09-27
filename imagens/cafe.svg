@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600">
+<rect width="900" height="600" fill="#ead7c0"/>
+<rect y="430" width="900" height="170" fill="#8b5e3c"/>
+<ellipse cx="450" cy="390" rx="230" ry="35" fill="#3b2416" opacity=".25"/>
+<path d="M285 275 Q450 235 615 275 L590 415 Q450 450 310 415 Z" fill="#fffaf3"/>
+<ellipse cx="450" cy="275" rx="165" ry="50" fill="#6f4e37"/>
+<ellipse cx="450" cy="275" rx="125" ry="28" fill="#9b6a45"/>
+<path d="M610 310 Q710 295 705 365 Q700 415 615 400" fill="none" stroke="#fffaf3" stroke-width="24"/>
+<text x="450" y="525" text-anchor="middle" font-family="Arial" font-size="42" font-weight="bold" fill="white">Café Aurora</text>
+</svg>
